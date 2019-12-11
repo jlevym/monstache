@@ -26,3 +26,5 @@ require (
 )
 
 replace github.com/globalsign/mgo v0.0.0-20181015135952-eeefdecb41b8 => github.com/rwynn/mgo v0.0.0-20190318130802-4743670bc61d
+
+go 1.13
